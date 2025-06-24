@@ -54,7 +54,9 @@ Open src/main/resources/application.properties and update:
 
 properties: 
    spring.datasource.url=jdbc:mysql://localhost:3306/bookstore_db
+   
    spring.datasource.username=root
+   
    spring.datasource.password=yourpassword
 
 
@@ -66,6 +68,9 @@ properties:
    http://localhost:8080/books
 
 
- ### Screenshots
+ ### Screenshot
 
+ IMG - 1:  Bookstore Home
+(https://github.com/damon005/Bookstore/blob/main/assets/Screenshot%202025-06-21%20094129.png)
+ 
    
