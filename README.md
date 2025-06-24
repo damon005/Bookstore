@@ -1,6 +1,6 @@
 # 📚 Bookstore Management System
 
-A simple Bookstore CRUD web application built with Spring Boot, Spring MVC, and MySQL. This project allows users to add, view, update, and delete books from a database.
+Developed a full-stack Bookstore Management System using Spring Boot and Thymeleaf following MVC design pattern, with complete CRUD functionality and MySQL integration.
 
 ---
 
