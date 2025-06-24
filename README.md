@@ -1,4 +1,4 @@
-# 📚 Bookstore Management System
+# 📚 Bookstore Management System(Spring Boot + MySQL)
 
 This is a full-stack Bookstore Management System using Spring Boot and Thymeleaf following MVC design pattern, with complete CRUD functionality and MySQL integration.
 
