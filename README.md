@@ -51,7 +51,8 @@ A simple Bookstore CRUD web application built with Spring Boot, Spring MVC, and 
 
 
  4.  **Configure DB credentials**
-       Open src/main/resources/application.properties and update:
+
+      Open src/main/resources/application.properties and update:
 
        properties:
      
@@ -62,7 +63,7 @@ A simple Bookstore CRUD web application built with Spring Boot, Spring MVC, and 
             spring.datasource.password=yourpassword
 
 
- 5.  **Run the application**
+ 6.  **Run the application**
 
           mvn spring-boot:run
 
