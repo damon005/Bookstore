@@ -24,5 +24,21 @@ A simple Bookstore CRUD web application built with Spring Boot, Spring MVC, and 
 
 ---
 
-## 📁 Project Structure
+
+---
+
+## ⚙️ Setup Instructions
+
+### Prerequisites:
+- Java 17+
+- Maven
+- MySQL installed and running
+
+### Steps to Run:
+
+1. **Clone the repository**
+   ```bash
+   git clone https://github.com/your-username/bookstore.git
+   cd bookstore
+
 
