@@ -45,8 +45,8 @@ A simple Bookstore CRUD web application built with Spring Boot, Spring MVC, and 
 
 2.  **Create the database**
 
-Mysql:
-  CREATE DATABASE bookstore_db;
+      Mysql:
+           CREATE DATABASE bookstore_db;
 
 
  3.  **Configure DB credentials**
@@ -54,15 +54,17 @@ Mysql:
 
        properties: 
             spring.datasource.url=jdbc:mysql://localhost:3306/bookstore_db
+     
             spring.datasource.username=root
+     
             spring.datasource.password=yourpassword
 
 
- 4.  **Run the application**
+ 5.  **Run the application**
           mvn spring-boot:run
 
 
- 5.   **Access in browser**
+ 6.   **Access in browser**
           http://localhost:8080/books
 
 
