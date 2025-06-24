@@ -36,9 +36,37 @@ A simple Bookstore CRUD web application built with Spring Boot, Spring MVC, and 
 
 ### Steps to Run:
 
+
 1. **Clone the repository**
    ```bash
    git clone https://github.com/damon005/Bookstore.git
    cd bookstore
 
 
+###Create the database
+
+Mysql:
+
+  CREATE DATABASE bookstore_db;
+
+
+###Configure DB credentials
+Open src/main/resources/application.properties and update:
+
+properties: 
+   spring.datasource.url=jdbc:mysql://localhost:3306/bookstore_db
+   spring.datasource.username=root
+   spring.datasource.password=yourpassword
+
+
+###Run the application
+   mvn spring-boot:run
+
+
+###Access in browser
+   http://localhost:8080/books
+
+
+ ###Screenshots
+
+   
