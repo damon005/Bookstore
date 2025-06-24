@@ -73,5 +73,14 @@ properties:
  IMG - 1:  Bookstore Home
 ![Alt Text](https://github.com/damon005/Bookstore/blob/main/assets/Screenshot%202025-06-21%20094129.png)
 
+ IMG - 2:  New Book Register
+ ![Alt Text](https://github.com/damon005/Bookstore/blob/main/assets/Screenshot%202025-06-21%20094144.png)
+
+ IMG - 3:  Available Books
+ ![Alt Text](https://github.com/damon005/Bookstore/blob/main/assets/Screenshot%202025-06-21%20094200.png)
+
+ IMG - 4:  My Books 
+ ![Alt Text](https://github.com/damon005/Bookstore/blob/main/assets/Screenshot%202025-06-21%20094211.png)
+
  
    
