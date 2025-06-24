@@ -43,14 +43,13 @@ A simple Bookstore CRUD web application built with Spring Boot, Spring MVC, and 
    cd bookstore
 
 
-###Create the database
+### Create the database
 
 Mysql:
-
   CREATE DATABASE bookstore_db;
 
 
-###Configure DB credentials
+### Configure DB credentials
 Open src/main/resources/application.properties and update:
 
 properties: 
@@ -59,14 +58,14 @@ properties:
    spring.datasource.password=yourpassword
 
 
-###Run the application
+### Run the application
    mvn spring-boot:run
 
 
-###Access in browser
+### Access in browser
    http://localhost:8080/books
 
 
- ###Screenshots
+ ### Screenshots
 
    
