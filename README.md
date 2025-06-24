@@ -6,7 +6,7 @@ A simple Bookstore CRUD web application built with Spring Boot, Spring MVC, and 
 
 ## 🚀 Features
 
-- Add a new book with title, author, price, and category
+- Add a new book with title, author, price.
 - View a list of all books
 - Update book details
 - Delete a book
