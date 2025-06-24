@@ -50,22 +50,20 @@ Mysql:
 
 
  3.  **Configure DB credentials**
-Open src/main/resources/application.properties and update:
+       Open src/main/resources/application.properties and update:
 
-properties: 
-   spring.datasource.url=jdbc:mysql://localhost:3306/bookstore_db
-   
-   spring.datasource.username=root
-   
-   spring.datasource.password=yourpassword
+       properties: 
+            spring.datasource.url=jdbc:mysql://localhost:3306/bookstore_db
+            spring.datasource.username=root
+            spring.datasource.password=yourpassword
 
 
  4.  **Run the application**
-   mvn spring-boot:run
+          mvn spring-boot:run
 
 
  5.   **Access in browser**
-   http://localhost:8080/books
+          http://localhost:8080/books
 
 
  ### Screenshot
