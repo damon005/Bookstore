@@ -38,7 +38,7 @@ A simple Bookstore CRUD web application built with Spring Boot, Spring MVC, and 
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/your-username/bookstore.git
+   git clone https://github.com/damon005/Bookstore.git
    cd bookstore
 
 
