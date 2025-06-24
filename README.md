@@ -71,6 +71,7 @@ properties:
  ### Screenshot
 
  IMG - 1:  Bookstore Home
-(https://github.com/damon005/Bookstore/blob/main/assets/Screenshot%202025-06-21%20094129.png)
+![Alt Text](https://github.com/damon005/Bookstore/blob/main/assets/Screenshot%202025-06-21%20094129.png)
+
  
    
